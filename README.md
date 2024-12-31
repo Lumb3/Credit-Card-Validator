@@ -33,5 +33,8 @@ This project can be used as:
 - A learning tool for understanding the Luhn Algorithm.
 - A template for integrating card validation into larger e-commerce or payment gateway systems.
 
-            <img width="502" alt="Screenshot 2024-12-31 at 17 48 13" src="https://github.com/user-attachments/assets/281e09ff-548c-4217-978a-d387e2202f8c" />
+
+
+
+<img width="502" alt="Screenshot 2024-12-31 at 17 48 13" src="https://github.com/user-attachments/assets/281e09ff-548c-4217-978a-d387e2202f8c" />
 
